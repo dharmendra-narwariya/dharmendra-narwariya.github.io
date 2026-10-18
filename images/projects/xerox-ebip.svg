@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" width="640" height="280" role="img" aria-label="Xerox · Enterprise BI platform">
+<rect width="640" height="280" rx="10" fill="#12233B"/>
+<text x="24" y="36" font-family="IBM Plex Mono, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.4" fill="#8FB0FF">XEROX · ENTERPRISE BI PLATFORM</text>
+<rect x="24.0" y="62" width="131.5" height="128" rx="8" fill="#18304F" stroke="#2B4A73" stroke-width="1.2"/>
+<text x="36.0" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">Legacy apps</text>
+<text x="36.0" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">On-premises BI</text>
+<text x="36.0" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">applications</text>
+<line x1="161.5" y1="126.0" x2="166.5" y2="126.0" stroke="#48E5CE" stroke-width="2"/>
+<polygon points="171.5,126.0 163.5,121.0 163.5,131.0" fill="#48E5CE"/>
+<rect x="177.5" y="62" width="131.5" height="128" rx="8" fill="#18304F" stroke="#2B4A73" stroke-width="1.2"/>
+<text x="189.5" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">Azure</text>
+<text x="189.5" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">Data Factory</text>
+<text x="189.5" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">and Data Lake</text>
+<line x1="315.0" y1="126.0" x2="320.0" y2="126.0" stroke="#48E5CE" stroke-width="2"/>
+<polygon points="325.0,126.0 317.0,121.0 317.0,131.0" fill="#48E5CE"/>
+<rect x="331.0" y="62" width="131.5" height="128" rx="8" fill="#18304F" stroke="#48E5CE" stroke-width="2"/>
+<text x="343.0" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">Snowflake</text>
+<text x="343.0" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">Cloud data</text>
+<text x="343.0" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">warehouse</text>
+<line x1="468.5" y1="126.0" x2="473.5" y2="126.0" stroke="#48E5CE" stroke-width="2"/>
+<polygon points="478.5,126.0 470.5,121.0 470.5,131.0" fill="#48E5CE"/>
+<rect x="484.5" y="62" width="131.5" height="128" rx="8" fill="#18304F" stroke="#2B4A73" stroke-width="1.2"/>
+<text x="496.5" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">BI reports</text>
+<text x="496.5" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">Tableau,</text>
+<text x="496.5" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">QlikView and</text>
+<text x="496.5" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">WebFOCUS</text>
+<line x1="24" y1="224" x2="616" y2="224" stroke="#2B4A73" stroke-width="1" stroke-dasharray="4 5"/>
+<circle cx="29" cy="248" r="4" fill="#48E5CE"/>
+<text x="42" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#B4C3DA">30+ applications supported, with issues resolved within SLAs</text>
+</svg>

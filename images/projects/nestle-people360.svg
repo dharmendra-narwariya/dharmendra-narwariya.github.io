@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" width="640" height="280" role="img" aria-label="Nestlé · People 360 HR analytics">
+<rect width="640" height="280" rx="10" fill="#12233B"/>
+<text x="24" y="36" font-family="IBM Plex Mono, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.4" fill="#8FB0FF">NESTLÉ · PEOPLE 360 HR ANALYTICS</text>
+<rect x="24.0" y="62" width="178.7" height="128" rx="8" fill="#18304F" stroke="#2B4A73" stroke-width="1.2"/>
+<text x="36.0" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">HR sources</text>
+<text x="36.0" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">SAP HR, SuccessFactors</text>
+<text x="36.0" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">iLearn and SAP Payroll</text>
+<line x1="208.7" y1="126.0" x2="219.7" y2="126.0" stroke="#48E5CE" stroke-width="2"/>
+<polygon points="224.7,126.0 216.7,121.0 216.7,131.0" fill="#48E5CE"/>
+<rect x="230.7" y="62" width="178.7" height="128" rx="8" fill="#18304F" stroke="#48E5CE" stroke-width="2"/>
+<text x="242.7" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">Snowflake layers</text>
+<text x="242.7" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">100+ tables via dbt</text>
+<text x="242.7" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">run by Snowflake Tasks</text>
+<line x1="415.3" y1="126.0" x2="426.3" y2="126.0" stroke="#48E5CE" stroke-width="2"/>
+<polygon points="431.3,126.0 423.3,121.0 423.3,131.0" fill="#48E5CE"/>
+<rect x="437.3" y="62" width="178.7" height="128" rx="8" fill="#18304F" stroke="#2B4A73" stroke-width="1.2"/>
+<text x="449.3" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F2F7F9">People analytics</text>
+<text x="449.3" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">Talent, performance,</text>
+<text x="449.3" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#B4C3DA">payroll and time views</text>
+<line x1="24" y1="224" x2="616" y2="224" stroke="#2B4A73" stroke-width="1" stroke-dasharray="4 5"/>
+<circle cx="29" cy="248" r="4" fill="#48E5CE"/>
+<text x="42" y="252" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#B4C3DA">Record counts reconciled at every data layer</text>
+</svg>
